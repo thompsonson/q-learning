@@ -1,0 +1,3 @@
+experiments/*
+training_output/*
+.venv/*
